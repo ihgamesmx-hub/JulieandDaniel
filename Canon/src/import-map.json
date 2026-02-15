@@ -1,7 +1,7 @@
 {
   "imports": {
-    "cc": "cocos-js/cc.js",
-    "cc/env": "cocos-js/cc.js",
+    "cc": "cocos-js/cc.min.js",
+    "cc/env": "cocos-js/cc.min.js",
     "virtual:cc": "cocos-js/virtual_cc.js"
   }
 }
